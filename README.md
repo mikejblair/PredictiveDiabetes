@@ -1,7 +1,7 @@
 ### Diabetes Prediction Analysis using Python
 
 #### Overview
-This repository contains the code and analysis for a capstone project focused on predicting diabetes using a dataset that includes various health indicators such as age, BMI, blood glucose levels, and more. The project was conducted using Python and Jupyter Notebook, and it highlights key data analytics skills including data cleaning, exploratory data analysis, data visualization, and model building.
+This repository contains the code and analysis for a capstone project focused on predicting diabetes using a dataset that includes various health indicators such as age, BMI, blood glucose levels, and more. The project was conducted using Python and Jupyter Notebook with MatplotLib, Seaborn, Pandas, Statsmodel.api, and SciKit-Learn, and it highlights key data analytics skills including data cleaning, exploratory data analysis, data visualization, and model building. 
 
 #### Skills and Techniques Used
 
